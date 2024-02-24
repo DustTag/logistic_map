@@ -17,4 +17,4 @@
 # 4) Xn has chaotic behaivior
 # 5) Xn oscilates with a period devisible by 3 and a power of 2 (island of stability)
 
-# This code is open-source, so feel free to borrow it. Further additions and efficiency tweeks are highly appreciated.
+# This code is open-source, so feel free to borrow it. Further additions and efficiency tweeks are highly appreciated. If you have any, please provide them in the comments below.
